@@ -1,0 +1,2 @@
+- You can trim whitespaces in the script's result in Alfred workflows:
+- ![alfred_trim_whitespace.png](../assets/alfred_trim_whitespace_1704184700342_0.png)
